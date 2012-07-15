@@ -18,6 +18,8 @@ This is a simple WordPress plugin that will list the attachments of a post while
 * Easy sorting of the attachments of a post, with drag'n'drop support
 * Links within each attachment to edit it, remove it or insert it into the current position in the editor
 
+Would you like to help improving this plugin? If so, fork me on [GitHub](https://github.com/InJoin/WP-Post-Attachments)!
+
 == Installation ==
 
 1. Upload the `ij-post-attachments` directory to the `/wp-content/plugins/` directory
