@@ -7,11 +7,11 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is a simple WordPress plugin that will list the attachments of a post while editing it - no configuration needed! All post types are supported.
+This is a simple plugin that will list the attachments of a post while editing it - no configuration needed! All post types are supported.
 
 == Description ==
 
-This is a simple WordPress plugin that will list the attachments of a post while editing it. You need no configuration, the list will be automatically shown for all post types.
+This is a simple but useful plugin that will list the attachments of a post while editing it, in a more intuitive mode. You need no configuration, the list will be automatically shown for all post types.
 
 = Features =
 * Listing attachments of a post (no matter the attachment type - video, image, audio or anything else)
