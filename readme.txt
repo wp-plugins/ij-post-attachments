@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== IJ Post Attachments ===
 Contributors: dookan
 Tags: images, attachments, intuitive
 Requires at least: 3.3.0
